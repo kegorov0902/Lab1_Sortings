@@ -60,9 +60,9 @@ int main() {
 	//добавить данные в массивы times, names!
 
 	//выводим таблицу
-	printTable(names, times);
+	//printTable(names, times);
 	//сохраняем результаты в файл
-	saveResults(names, times, "result.txt");
+	//saveResults(names, times, "result.txt");
 
 	return 0;
 }
